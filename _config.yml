@@ -1,14 +1,26 @@
-layout_spectrum: 0.3320921
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6765957
+  saturation: 0.4723404
   brandStrength: 0.4409064
-  lightness: 0.6468085
-  rhythmicContrast: 0.4361702
+  lightness: 0.3361702
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  rhythmicContrast: 0.6361702
 typography_spectrum: 0.9845102
+layout_spectrum: 0.7255319
 name: "Mosher's Automotive"
