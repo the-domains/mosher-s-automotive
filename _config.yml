@@ -1,0 +1,14 @@
+layout_spectrum: 0.3320921
+color:
+  saturation: 0.6765957
+  brandStrength: 0.4409064
+  lightness: 0.6468085
+  rhythmicContrast: 0.4361702
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.9845102
+name: "Mosher's Automotive"
