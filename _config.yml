@@ -1,3 +1,7 @@
+name: "Mosher's Automotive"
+favicon: null
+layout_spectrum: 0.7255319
+typography_spectrum: 0.9845102
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4723404
+  brandColors:
+    - '#ffffff'
+    - '#171717'
+    - '#8a8a8a'
+    - '#ffb810'
+    - '#b50706'
   brandStrength: 0.4409064
   lightness: 0.3361702
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  saturation: 0.4723404
   rhythmicContrast: 0.6361702
-typography_spectrum: 0.9845102
-layout_spectrum: 0.7255319
-name: "Mosher's Automotive"
+purpose: []
